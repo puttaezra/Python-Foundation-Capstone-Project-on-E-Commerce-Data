@@ -1,5 +1,5 @@
 # Python-Foundation-Capstone-Project-on-E-Commerce-Data
-
+# Business Context:
 
 The client is one of the leading online market place in India and Thet were partnered with Analytixlabs.
 Client wants help in measuring, managing and analysing performance of business.
